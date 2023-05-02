@@ -1,6 +1,6 @@
 # Mediapipe
   
-  https://pypi.org/project/mediapipe/  
+ Install Mediapipe: https://pypi.org/project/mediapipe/  
   
 FaceMesh:
 The MediaPipe Face Landmarker task lets you detect face landmarks and facial expressions in selfie-like images and videos.   
